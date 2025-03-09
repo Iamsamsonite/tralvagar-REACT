@@ -1,0 +1,12 @@
+.app {
+    color: red;
+}
+
+@media screen and (max-width: 620px) {
+
+    
+}
+
+.row {
+    margin: 0 !important ;
+}
